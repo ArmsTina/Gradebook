@@ -22,7 +22,3 @@ Unfortunately, this program was developed as a final project for a university co
 
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-This README gives a clear and simple overview of your project while also hinting at possible future improvements. Let me know if you'd like to include more details!
